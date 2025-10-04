@@ -53,6 +53,12 @@ SlimFace leverages pre-trained TorchVision models fine-tuned for face recognitio
 
 For more details on Base Models, refer to the PyTorch Pretrained Model Documentation: [![PyTorch Documentation](https://img.shields.io/badge/PyTorch-Pretrain%20Model%20Docs-orange?style=flat&logo=pytorch)](https://docs.pytorch.org/vision/main/models.html).
 
+## SlimFace Pipeline
+<img src="assets/slimface_inference_pipeline.svg" 
+     alt="SlimFace Inference Pipeline" 
+     style="max-width:100%; height:auto; display:block; margin:0 auto;" />
+
+
 ## Demonstration
 
 ### Interactive Demo
